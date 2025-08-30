@@ -1,29 +1,20 @@
-# DSA-M 🚀
+# 🚀 DSA-M
 
-This repository contains implementations of **Data Structures and Algorithms (DSA)** in **Java**.  
-The goal is to practice and build a strong foundation in DSA concepts.
-
----
+This repository contains **Data Structures and Algorithms (DSA)** programs in Java.  
+Files are organized into separate folders for better understanding.  
 
 ## 📂 Folder Structure
-- `Stack.java` → Implementation of stack (push, pop, peek, etc.)
-- `Circularll.java` → Circular Linked List implementation
-- `Doublelinkedlist.java` → Doubly Linked List implementation
+- **linked list**
+  - Circular Linked List
+  - Double Linked List
+- **stack**
+  - Stack Implementation
 
-(More codes will be added as I continue practicing...)
+## 🎯 Purpose
+- To practice DSA concepts.
+- To maintain organized Java code.
 
----
-
-## 🔥 Topics Covered
-- Arrays
-- Stacks
-- Queues
-- Linked Lists (Singly, Doubly, Circular)
-- (Upcoming → Trees, Graphs, Sorting, Searching...)
-
----
-
-## 💻 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/DSA-M.git
+## 🔗 How to Run
+```bash
+javac filename.java
+java filename
