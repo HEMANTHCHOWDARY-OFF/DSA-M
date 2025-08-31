@@ -11,7 +11,7 @@ Files are organized into separate folders for better understanding.
   - Stack Implementation
 - **Tree**
   - Binary Search Tree Implementation
--**Sorting**
+- **Sorting**
   -mergesort
   -quicksort
 ## 🎯 Purpose
