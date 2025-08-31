@@ -9,7 +9,8 @@ Files are organized into separate folders for better understanding.
   - Double Linked List
 - **stack**
   - Stack Implementation
-
+- **tree**
+  - binarysearchtree Implementation
 ## 🎯 Purpose
 - To practice DSA concepts.
 - To maintain organized Java code.
