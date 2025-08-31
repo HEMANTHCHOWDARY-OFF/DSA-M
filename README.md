@@ -10,7 +10,7 @@ Files are organized into separate folders for better understanding.
 - **Stack**
   - Stack Implementation
 - **Tree**
-  - Rinary Search Tree Implementation
+  - Binary Search Tree Implementation
 ## 🎯 Purpose
 - To practice DSA concepts.
 - To maintain organized Java code.
