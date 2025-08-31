@@ -12,8 +12,8 @@ Files are organized into separate folders for better understanding.
 - **Tree**
   - Binary Search Tree Implementation
 - **Sorting**
-  -mergesort
-  -quicksort
+  - mergesort
+  - quicksort
 ## 🎯 Purpose
 - To practice DSA concepts.
 - To maintain organized Java code.
