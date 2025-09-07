@@ -11,6 +11,9 @@ Files are organized into separate folders for better understanding.
   - Stack Implementation
 - **Tree**
   - Binary Search Tree Implementation
+- **Sorting**
+  - Mergesort
+  - Quicksort
 ## 🎯 Purpose
 - To practice DSA concepts.
 - To maintain organized Java code.
